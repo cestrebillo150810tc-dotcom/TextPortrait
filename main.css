@@ -23,7 +23,7 @@ p{
   background-blend-mode: color-dodge;
   background-attachment: fixed;
   text-align: justify;
-  background-size: 130vh;
+  background-size: 100vh;
   -webkit-background-clip: text;
   -webkit-text-fill-color: rgb(255,255,255,0);
 }
